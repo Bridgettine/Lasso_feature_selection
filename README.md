@@ -1,2 +1,2 @@
-# Lasso_feature_selection
-Feature Engineering on water potability
+# Lasso
+Hamoye Data Science Cohort Fall'22 Premier Project
